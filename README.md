@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Alt Text](https://indoanalytica.com/static/images/data-science-5.gif)
 # 💫 About Me:
 👋Hi there! I'm Shalabh Ranjan, a final year student at BIT Bangalore, passionate about technology and innovation.<br><br>🚀 What I Do:<br>👉Machine Learning  – Exploring AI-driven solutions<br>👉DevOps & Cloud Computing – Automating workflows and scaling applications<br>👉Frontend Development – Crafting intuitive user experiences<br><br>📚 Currently Learning:<br>👉MLOps – Streamlining ML model deployment<br>👉Deep Learning – Diving into neural networks and AI<br>
 
