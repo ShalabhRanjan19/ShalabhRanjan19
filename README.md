@@ -1,5 +1,7 @@
 ## Hi there 👋
-![Alt Text](https://indoanalytica.com/static/images/data-science-5.gif)
+<p align="center">
+  <img src="https://sircltech.com/assets/images/newgif/python.gif" width="600"/>
+</p>
 # 💫 About Me:
 👋Hi there! I'm Shalabh Ranjan, a final year student at BIT Bangalore, passionate about technology and innovation.<br><br>🚀 What I Do:<br>👉Machine Learning  – Exploring AI-driven solutions<br>👉DevOps & Cloud Computing – Automating workflows and scaling applications<br>👉Frontend Development – Crafting intuitive user experiences<br><br>📚 Currently Learning:<br>👉Backend Development -Python-powered backend dev <br>👉Deep Learning – Diving into neural networks and AI<br>
 
